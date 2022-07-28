@@ -1,0 +1,15 @@
+D:\CS Project\MorseKeyboard\bin\Debug\MorseKeyboard.exe.config
+D:\CS Project\MorseKeyboard\bin\Debug\MorseKeyboard.exe
+D:\CS Project\MorseKeyboard\bin\Debug\MorseKeyboard.pdb
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.csproj.AssemblyReference.cache
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.csproj.SuggestedBindingRedirects.cache
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.Form1.resources
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.Properties.Resources.resources
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.csproj.GenerateResource.cache
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.csproj.CoreCompileInputs.cache
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.exe
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.pdb
+D:\CS Project\MorseKeyboard\obj\Debug\MorseKeyboard.Table.resources
+D:\系统文件\桌面\Morse\Debug\MorseKeyboard.exe.config
+D:\系统文件\桌面\Morse\Debug\MorseKeyboard.exe
+D:\系统文件\桌面\Morse\Debug\MorseKeyboard.pdb
